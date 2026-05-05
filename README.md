@@ -1,8 +1,9 @@
-## Hi there, I'm Ken!👋
+![](https://komarev.com/ghpvc/?username=maegiko&color=blue)
+## <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" /> Hi there, I'm Ken!
 
 This is my dumping ground for the stuff I make.
 
-- Visit my [site](https://maegiko.github.io/) to learn more about me.
+- Visit my [site](https://maegiko.github.io/) to learn more about me!
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kenneth-koon-608586300/)!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maegiko)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maegiko&layout=compact&theme=dark)
+![Skills](https://skillicons.dev/icons?i=c,cs,js,ts,java,python,react)
