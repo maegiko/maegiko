@@ -3,7 +3,7 @@
 
 This is my dumping ground for the stuff I make.
 
-- Visit my [site](https://maegiko.github.io/) to learn more about me!
+- Visit my [site](https://kennethkdev.com) to learn more about me!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kenneth-koon-608586300/)!
 
 ![Skills](https://skillicons.dev/icons?i=c,cs,js,ts,java,python,react)
